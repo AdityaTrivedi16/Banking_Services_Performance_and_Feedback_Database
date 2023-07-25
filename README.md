@@ -1,6 +1,6 @@
 # Banking_Services_Performance_and_Feedback_Database
 
-•	This was the final project under the subject Data Management of Analytics which helped develop and demonstrate necessary data management skills by working with SQL and NOSQL databases.
+•	This was the final project under the subject Data Management of Analytics which helped develop and demonstrate necessary data management skills by working with SQL and NOSQL databases with analysis in Python by integrating Mysql workbench and visualizations in Tableau.
 
 •	Developed a banking database from scratch, to examine customer complaints and communication channels, identify the conversion rate of online complaints in progress, and measure customer traffic by analyzing the number of accounts opened per year.
 
