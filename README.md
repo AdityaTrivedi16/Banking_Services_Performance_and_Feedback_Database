@@ -8,3 +8,4 @@
 
 •	The project's findings offer valuable insights for making strategic decisions related to branch management, expansion, and resource allocation. Banks can use the data on customer complaints, ratings, and account openings to identify opportunities for improvement, optimize branch networks, and allocate resources effectively. These decisions ultimately contribute to overall business growth and customer satisfaction.
 
+Note: The PDF file contains the code to Python scripts, Neo4j implementations and Tableau visualizations.
